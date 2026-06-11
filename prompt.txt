@@ -1,0 +1,21 @@
+TASK: explain
+DIFFICULTY: basic
+
+CONTEXT:
+This function adds two numbers.
+
+CODE:
+def add(a, b):
+    return a + b
+
+REQUIREMENTS:
+- Explain what the function does
+- Explain arguments
+- Explain return value
+
+CONSTRAINTS:
+- Do not change the code
+- Do not invent project behavior
+
+OUTPUT_FORMAT:
+answer_only
