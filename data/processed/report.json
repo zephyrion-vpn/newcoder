@@ -1,0 +1,10 @@
+{
+  "py_files": 1000,
+  "sft_examples": 2500,
+  "task_counts": {
+    "test_simple": 406,
+    "explain_with_reasoning": 478,
+    "explain_simple": 1616
+  },
+  "pretrain_chars": 3309728
+}
